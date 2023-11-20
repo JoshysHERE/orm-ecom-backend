@@ -13,7 +13,7 @@ E-commerce tracker
 * [License](#license)
 
 ## Installation
-  Inquirer & MYSQL2
+ MYSQL2
 ## How to Use This Application:
   Video Link: 
 ## Contributors
